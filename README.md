@@ -36,3 +36,10 @@
   <img align="center" alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <img align="center" alt="Linkedin"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
+
+<p align="center"> 
+  <b>Total visits to my profile</b> :detective: 
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/hedrobyte/count.svg" />
+ </p>
+</p>
