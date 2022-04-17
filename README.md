@@ -7,7 +7,6 @@
 </div>
   
   ##
- 
 ### About
 <div style="display: inline_block"  >
 <p> - 👨‍💻 I'm graduating in computer science from the Universidade Federal de Lavras </p>
@@ -15,7 +14,6 @@
 </div>
   
   ##
-  
 ### Skills
 <div style="display: inline_block" ><br>
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -26,19 +24,11 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="40" width="50" alt="MySQL"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
-  
-
-  
+ 
   ##
-- Contact
+### Contact
   <div style="display: inline_block" ><br>
-  <img align="center" alt="Gmail"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <img align="center" alt="Linkedin"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://www.linkedin.com/in/hedrobyte/">
+      <img align="center" alt="Linkedin"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
 </div>
-
-<p align="center"> 
-  <b>Total visits to my profile</b> :detective: 
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/hedrobyte/count.svg" />
- </p>
-</p>
