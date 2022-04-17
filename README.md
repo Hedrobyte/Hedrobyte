@@ -10,7 +10,6 @@
  
 ### About
 <div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <p> - 👨‍💻 I'm graduating in computer science from the Universidade Federal de Lavras </p>
 <p> - 🎯 interest: Data Science </p>
 </div>
