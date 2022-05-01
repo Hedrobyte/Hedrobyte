@@ -1,5 +1,12 @@
 ## Hi there, I'm Pedro Alves 👋
+  
 
+### About
+<div style="display: inline_block"  >
+  <p> - 👨‍💻 I'm graduating in computer science from the Universidade Federal de Lavras </p>
+</div>
+
+##
 <div align="center">
   <a href="https://github.com/Hedrobyte/Hedrobyte">
     <img align="center" width=47% src="https://github-readme-stats.vercel.app/api?username=hedrobyte&show_icons=true&theme=algolia"/>
@@ -7,13 +14,7 @@
   </a>
 </div>
   
-##
-### About
-<div style="display: inline_block"  >
-  <p> - 👨‍💻 I'm graduating in computer science from the Universidade Federal de Lavras </p>
-</div>
-  
-##
+
 ### Skills
 <div style="display: inline_block" ><br>
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
